@@ -1,3 +1,10 @@
-# myproject
-This is my first GIT repository <BR>
-Author-Aditi MJ
+# MyProject
+
+This is my first Git repository.
+
+## Features
+- Learning Git
+- Learning GitHub
+
+## Author
+Aditi MJ
